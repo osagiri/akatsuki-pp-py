@@ -5,7 +5,7 @@ version = 3
 [[package]]
 name = "akatsuki-pp"
 version = "1.0.1"
-source = "git+https://github.com/osagiri/akatsuki-pp-rs?rev=438c7d657f297bc8269a2b7c5897b019beff6f96#438c7d657f297bc8269a2b7c5897b019beff6f96"
+source = "git+https://github.com/osagiri/akatsuki-pp-rs?rev=6e7de02ccf36775a578214678c1fb0482b025e06#6e7de02ccf36775a578214678c1fb0482b025e06"
 
 [[package]]
 name = "akatsuki-pp-py"
