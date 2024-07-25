@@ -12,7 +12,7 @@ crate-type = ["cdylib"]
 
 [dependencies]
 pyo3 = { version = "0.17", features = ["extension-module", "macros"] }
-akatsuki-pp = { git = "https://github.com/osagiri/akatsuki-pp-rs", rev = "b76f3d8bab130fde92eb691ddc29e2844c699498" }
+akatsuki-pp = { git = "https://github.com/osagiri/akatsuki-pp-rs", rev = "389b28551f3954974a17cabfc1728e7465d1cf39" }
 
 [profile.release]
 lto = "fat"
